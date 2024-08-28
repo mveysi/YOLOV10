@@ -21,7 +21,7 @@ Bu .dll hatasını aldım ve daha sonra youtubedan bir video buldum. DLL hatası
 
 [https://youtu.be/npPdd7wk3Ok?si=mF2Sn1QGddeSXpIJ](url)
 
-3.2- HuggingFace HATASI
+3.2- huggingface_hub HATASI
 
 ModuleNotFoundError: No module named 'huggingface_hub'
 
