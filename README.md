@@ -3,4 +3,7 @@ Bu projede YOLOV10 hakkında bilgi vereceğim ve kurarken aldığım hataları y
 
 ![latency](https://github.com/user-attachments/assets/a9d9f0da-375f-46fd-aee5-2c9b30f08025)          ![params](https://github.com/user-attachments/assets/559dfc29-3c8b-4d46-818c-1b99ba9efbeb)
 
-# Modeli yüklerken aldığım hata!!!
+# Modeli yüklerken aldığım hatalar!!!
+
+1- ![hata1](https://github.com/user-attachments/assets/d26ce367-f66f-4809-9850-c5d4356506c3)
+
