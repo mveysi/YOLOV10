@@ -4,7 +4,9 @@ Bu projede YOLOV10 hakkında bilgi vereceğim ve kurarken aldığım hataları y
 ![latency](https://github.com/user-attachments/assets/a9d9f0da-375f-46fd-aee5-2c9b30f08025)          ![params](https://github.com/user-attachments/assets/559dfc29-3c8b-4d46-818c-1b99ba9efbeb)
 
 Öncelikle YOLOV10 için kullanacağımız IDE Pycharm. Çünkü bu kodlarımızı local de çalıştırmalıyız ve en uygun yer PyCharm. Terminali açıp Local kısmına indirme kodlarını yazmalısınız. Bunun için Gebze Teknik Üniversitesinden Prof. Bülent SEZEN hocaya sordum. Onun da videosuna buradan ulaşabilirsiniz. [https://youtu.be/DkOKSHYQHnE?si=UUEV6El8uYfLoFAl](url)
+
 1.Locsl kısmına bunu yazıyoruz.
+
       pip install -q git+https://github.com/THU-MIG/yolov10.git
     
 2. yolov10n veya farklı bir ağırlığı üstte verdiğim github reposundan indirebilirsiniz ardından bunu .py dosyasıyla aynı uzantıya getirmelisiniz. 
