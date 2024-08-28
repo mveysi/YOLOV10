@@ -7,4 +7,6 @@ Bu projede YOLOV10 hakkında bilgi vereceğim ve kurarken aldığım hataları y
 
 1- ![hata_1](https://github.com/user-attachments/assets/cfe46bca-9cca-44c3-9490-51bb240fb0a3)
 
+Bu .dll hatasını aldım ve daha sonra youtubedan bir video buldum. DLL hatası ilgili dosyayı bulamayınca çıkıyormuş.
 
+[https://youtu.be/npPdd7wk3Ok?si=mF2Sn1QGddeSXpIJ](url)
