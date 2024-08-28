@@ -1,9 +1,9 @@
-# YOLOV10
+# YOLOV10 🔥
 Bu projede YOLOV10 hakkında bilgi vereceğim ve kurarken aldığım hataları yazacağım. Öncelikle YOLOV10 modeli henüz çıkmadı. Bu [https://github.com/THU-MIG/yolov10](url) sayfadan demo modunu kullanabiliyoruz. Ultralytics in şuan en güncel modeli aslında V8 modelidir. Aşağıdaki grafiklerden de anladığımız kadarıyla en iyi model olacağını da görebiliyoruz.
 
 ![latency](https://github.com/user-attachments/assets/a9d9f0da-375f-46fd-aee5-2c9b30f08025)          ![params](https://github.com/user-attachments/assets/559dfc29-3c8b-4d46-818c-1b99ba9efbeb)
 
-# !!!!!! Öncelikle YOLOV10 için kullanacağımız IDE Pycharm. Çünkü bu kodlarımızı local de çalıştırmalıyız ve en uygun yer PyCharm. Terminali açıp Local kısmına indirme kodlarını yazmalısınız. Bunun için Gebze Teknik Üniversitesinden Prof. Bülent SEZEN hocaya sordum. Onun da videosuna buradan ulaşabilirsiniz. [https://youtu.be/DkOKSHYQHnE?si=UUEV6El8uYfLoFAl](url)
+# !!!!!! Öncelikle YOLOV10 için kullanacağımız IDE Pycharm. Çünkü bu kodlarımızı local de çalıştırmalıyız ve en uygun yer PyCharm. Terminali açıp Local kısmına indirme kodlarını yazmalısınız. Pycharm için Gebze Teknik Üniversitesinden Prof. Bülent SEZEN hocaya sordum ve visiual studio kullanmak biraz daha karmaşık olur dedi. Onun da videosuna buradan ulaşabilirsiniz. [https://youtu.be/DkOKSHYQHnE?si=UUEV6El8uYfLoFAl](url)
 
 # 1.Local kısmına bunu yazıyoruz.
 
