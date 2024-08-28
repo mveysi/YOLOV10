@@ -5,5 +5,6 @@ Bu projede YOLOV10 hakkında bilgi vereceğim ve kurarken aldığım hataları y
 
 # Modeli yüklerken aldığım hatalar!!!
 
-1- ![hata1](https://github.com/user-attachments/assets/d26ce367-f66f-4809-9850-c5d4356506c3)
+1- ![hata_1](https://github.com/user-attachments/assets/cfe46bca-9cca-44c3-9490-51bb240fb0a3)
+
 
