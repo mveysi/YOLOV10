@@ -21,7 +21,7 @@ Bu .dll hatasını aldım ve daha sonra youtubedan bir video buldum. DLL hatası
 ModuleNotFoundError: No module named 'huggingface_hub'
 Dll hatasından sonra yukarıda ki gibi bir hata aldım. Bunu da huggingface_hub u indirerek çözdüm.
 
-       3.1 pip install huggingface_hub
+        pip install huggingface_hub
 
 
 
