@@ -34,6 +34,8 @@ Dll hatasından sonra yukarıda ki gibi bir hata aldım. Bunu da huggingface_hub
 3.3- OPENCV HATASI
 
 Bu hata için: Önce opencv yi silip sonra tekrar yükleyeceğiz.
-  pip uninstall opencv-python 
-  pip install opencv-python
+
+    pip uninstall opencv-python 
+  
+    pip install opencv-python
 
