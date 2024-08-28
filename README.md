@@ -3,7 +3,7 @@ Bu projede YOLOV10 hakkında bilgi vereceğim ve kurarken aldığım hataları y
 
 ![latency](https://github.com/user-attachments/assets/a9d9f0da-375f-46fd-aee5-2c9b30f08025)          ![params](https://github.com/user-attachments/assets/559dfc29-3c8b-4d46-818c-1b99ba9efbeb)
 
-### !!!!!! Öncelikle YOLOV10 için kullanacağımız IDE Pycharm. Çünkü bu kodlarımızı local de çalıştırmalıyız ve en uygun yer PyCharm. Terminali açıp Local kısmına indirme kodlarını yazmalısınız. Pycharm için Gebze Teknik Üniversitesinden Prof. Bülent SEZEN hocaya sordum ve visiual studio kullanmak biraz daha karmaşık olur dedi. Onun da videosuna buradan ulaşabilirsiniz. [https://youtu.be/DkOKSHYQHnE?si=UUEV6El8uYfLoFAl](url)
+### !!!!!! Öncelikle YOLOV10 için kullanacağımız IDE Pycharm. Çünkü indirme işlemli kodlarımızı local de çalıştırmalıyız ve en uygun yer PyCharm. Terminali açıp Local kısmına indirme kodlarını yazmalısınız. Pycharm için Gebze Teknik Üniversitesinden Prof. Bülent SEZEN hocaya sordum ve visiual studio kullanmak biraz daha karmaşık olur dedi. Onun da videosuna buradan ulaşabilirsiniz. [https://youtu.be/DkOKSHYQHnE?si=UUEV6El8uYfLoFAl](url)
 
 # 1.Local kısmına bunu yazıyoruz.
 
