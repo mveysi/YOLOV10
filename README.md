@@ -5,7 +5,7 @@ Bu projede YOLOV10 hakkında bilgi vereceğim ve kurarken aldığım hataları y
 
 ### !!!!!! Öncelikle YOLOV10 için kullanacağımız IDE Pycharm. Çünkü indirme işlemli kodlarımızı local de çalıştırmalıyız ve en uygun yer PyCharm. Terminali açıp Local kısmına indirme kodlarını yazmalısınız. Pycharm için Gebze Teknik Üniversitesinden Prof. Bülent SEZEN hocaya sordum ve visiual studio kullanmak biraz daha karmaşık olur dedi. Onun da videosuna buradan ulaşabilirsiniz. [https://youtu.be/DkOKSHYQHnE?si=UUEV6El8uYfLoFAl](url)
 
-# 1.Local kısmına bunu yazıyoruz.
+# 1. Local kısmına bunu yazıyoruz.
 
       pip install -q git+https://github.com/THU-MIG/yolov10.git
     
